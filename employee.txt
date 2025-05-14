@@ -1,0 +1,10 @@
+Employee{name='Luis Pérez', email='luis@example.com', age=30, salary=35000.0}
+Employee{name='Ana Gómez', email='ana@example.com', age=28, salary=40000.0}
+Employee{name='Carlos Ruiz', email='carlos@example.com', age=21, salary=18000.0}
+Employee{name='Sofía López', email='sofia@example.com', age=35, salary=50000.0}
+Employee{name='Lucía Díaz', email='lucia@example.com', age=22, salary=20000.0}
+Employee{name='Miguel Torres', email='miguel@example.com', age=40, salary=45000.0}
+Employee{name='Paula Moreno', email='paula@example.com', age=33, salary=38000.0}
+Employee{name='Jorge Ramírez', email='jorge@example.com', age=23, salary=19500.0}
+Employee{name='Elena Sánchez', email='elena@example.com', age=29, salary=41000.0}
+Employee{name='David Castro', email='david@example.com', age=24, salary=19000.0}
